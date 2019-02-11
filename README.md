@@ -45,9 +45,9 @@ TV.  What I needed now fell under the umbrella of a home NAS (network attached s
         <li>The model I purchased was configured with no drives.</li>
       </ul>
     </td>
-    <td style="border:none;">
-      ![HPE ProLiant MicroServer Gen10](images/hpe_stockphoto-300px.jpg)
-      (Stock photo)
+    <td style="border:none;text-align:center">
+     <img alt="HPE ProLiant MicroServer Gen10" src="images/hpe_stockphoto-300px.jpg">
+     <div>(Stock photo)</div>
     </td>
   </tr>
 </table>
